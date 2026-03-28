@@ -1,6 +1,6 @@
 🎶 Ya qalbi khalli l-ḥāl 🎶
 
-—
+--
 
 📌 Couplet 1
 
@@ -16,11 +16,11 @@ Amhil fa-lā ta‘jal w men ṣabar nālou
 
 ➡️ Prends ton temps, celui qui patiente obtient
 
-—
+--
 
 🔁 Refrain
 
--
+--
 
 Yāti l-faraj fi l-ḥīn lil-‘abd men mawlāh
 
@@ -34,7 +34,7 @@ Iṣber ‘ala l-miḥan ḥatta yfarraj Allah
 
 ➡️ Patiente jusqu’à la délivrance
 
-—
+--
 
 📌 Couplet 2
 
@@ -50,7 +50,7 @@ Hādhihi ed-dunya tarfa‘ w taḍa‘ qawm
 
 ➡️ La vie élève et abaisse
 
-—
+--
 
 🔁 Refrain
 —
